@@ -1,0 +1,97 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "f0ed30a7-e660-4179-a052-af81de134fdb"
+  "atom-diary":
+    baseDir: "Dropbox_jon/Dropbox/txt/journal/"
+  build:
+    notificationOnRefresh: true
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "language-gfm"
+      "markdown-preview-plus"
+      "build"
+    ]
+    packagesWithKeymapsDisabled: [
+      "markdown-toc"
+    ]
+    projectHome: "C:\\Users\\jszczesniak\\Dropbox\\txt\\config"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "49d670d3-40fa-6676-5c94-5bc8396833f0"
+  "file-icons": {}
+  "git-diff":
+    showIconsInEditorGutter: true
+  "imdone-atom-harbour":
+    openIn: {}
+    showNotifications: true
+    showTagsInline: true
+    todaysJournal: {}
+  "language-markdown": {}
+  linter:
+    errorPanelHeight: 118
+    ignoredMessageTypes: [
+      "\"maximum-line-length\""
+    ]
+    showErrorPanel: false
+  "markdown-mindmap": {}
+  "markdown-pdf": {}
+  "markdown-preview":
+    breakOnSingleNewline: true
+    useGitHubStyle: true
+  "markdown-preview-opener":
+    closePreviewWhenClosingEditor: true
+  "markdown-preview-plus":
+    breakOnSingleNewline: true
+    grammars: [
+      "text.plain"
+      "text.markdown"
+    ]
+    openPreviewInSplitPane: false
+    pandocRemoveReferences: false
+    useLazyHeaders: false
+  "markdown-preview-plus-opener":
+    closePreviewWhenClosingEditor: true
+  "markdown-themeable-pdf":
+    customStylesPath: "..\\Dropbox\\txt\\notebook\\BCJ Styling.css"
+    enableCheckboxes: false
+    enableCustomFooter: false
+    enableCustomHeader: false
+    enableLinkify: true
+    format: "Letter"
+    openPdfInAtomWorkspace: false
+  minimap:
+    plugins:
+      "highlight-selected": true
+  "one-dark-ui": {}
+  "sync-settings":
+    _analyticsUserId: "de368637-e97d-42c2-97f9-002c7a8ad8ca"
+    _lastBackupHash: "e360db8a08a1e7514040beef8e8f6b76de55fede"
+    gistId: "7672a5c00edf301e819b"
+    personalAccessToken: "753e6b27e8038f61167ccfe0091535fc623f11a5"
+  tabs:
+    alwaysShowTabBar: false
+    usePreviewTabs: true
+  tasks:
+    baseMarker: "-"
+    cancelledMarker: "x"
+    completeMarker: "+"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".md.text":
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: false
+    softWrapHangingIndent: 5
